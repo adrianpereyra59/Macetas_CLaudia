@@ -11,7 +11,7 @@ export default function Footer() {
         </div>
         <div class="Whatsapp_container">
         <button class="btn_whatsapp">
-          <img src="/public/images/whatsapp-logo-popular-social-media-button-icon-free-png.webp" alt="" />
+          
             <a
                 href="http://wa.me/+542613410395?text=Hola,%20visité%20la%20página%20y%20quiero%20consultar%20por%20las%20Macetas%20">
                 <i class="bi bi-whatsapp">envianos tu consulta</i>
